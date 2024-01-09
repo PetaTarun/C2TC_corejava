@@ -9,5 +9,6 @@ public class Indentifiers {
 		System.out.println(id + num);
         System.out.println(id+num1);
         System.out.println(id+stdname);
+        System.out.println(num1+stdname);
 	}
 }
