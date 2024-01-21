@@ -1,6 +1,6 @@
 package Variables;
 
-public class Test {
+public class Test{
 	int a=12;
 	float b=12.5f;
 	boolean c= true;
