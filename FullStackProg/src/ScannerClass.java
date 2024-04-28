@@ -9,5 +9,6 @@ public class ScannerClass {
 	int b = scan.nextInt();
 	
 		System.out.println(a+b);
+		
 	}		
 }
