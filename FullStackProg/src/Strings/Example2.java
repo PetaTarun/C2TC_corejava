@@ -1,5 +1,5 @@
 package Strings;
-import java.util.Scanner;
+//import java.util.Scanner;
 public class Example2 {
 
 	 static String reverse(String s) {
